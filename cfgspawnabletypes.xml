@@ -3104,9 +3104,6 @@
 			<item name="Flag_APA" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="ChainSaw" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
 			<item name="Battery9V" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
@@ -3238,9 +3235,6 @@
 			<item name="Flag_APA" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="ChainSaw" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
 			<item name="Battery9V" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
@@ -3369,10 +3363,7 @@
 			<item name="Flag_Altis" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Flag_APA" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="ChainSaw" chance="1.00" />
+			<item name="Flag_APA" chance="1.00" />		
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Battery9V" chance="1.00" />
@@ -3484,7 +3475,7 @@
 		<attachments chance="1.00">
 			<item name="Hook" chance="1.00" />
 		</attachments>
-		
+		</type>
 	<type name="CivilianSedan_Wine">
 		<attachments chance="1.00">
 			<item name="CivSedanWheel" chance="1.00" />
@@ -3673,7 +3664,6 @@
 		<attachments chance="1.00">
 			<item name="Pot" chance="1.00" />
 		</attachments>
-	</type>
 	
 	<attachments chance="1.00">
 			<item name="FishingRod" chance="1.00" />
@@ -3684,7 +3674,7 @@
 		<attachments chance="1.00">
 			<item name="Hook" chance="1.00" />
 		</attachments>
-	
+	</type>
 	<!-- -->
 	<type name="Hatchback_02">
 		<attachments chance="1.00">
