@@ -3422,7 +3422,6 @@
 		<attachments chance="1.00">
 			<item name="CivSedanTrunk" chance="1.00" />
 		</attachments>
-		
 		<attachments chance="1.00">
 			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
@@ -3465,7 +3464,6 @@
 		<attachments chance="1.00">
 			<item name="Pot" chance="1.00" />
 		</attachments>
-		
 		<attachments chance="1.00">
 			<item name="FishingRod" chance="1.00" />
 		</attachments>
@@ -3474,6 +3472,18 @@
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Hook" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="VitaminBottle" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SewingKit" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LeatherSewingKit" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="DuctTape" chance="1.00" />
 		</attachments>
 		</type>
 	<type name="CivilianSedan_Wine">
@@ -3564,7 +3574,6 @@
 		<attachments chance="1.00">
 			<item name="Pot" chance="1.00" />
 		</attachments>
-		
 		<attachments chance="1.00">
 			<item name="FishingRod" chance="1.00" />
 		</attachments>
@@ -3574,7 +3583,18 @@
 		<attachments chance="1.00">
 			<item name="Hook" chance="1.00" />
 		</attachments>
-		
+		<attachments chance="1.00">
+			<item name="VitaminBottle" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SewingKit" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LeatherSewingKit" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="DuctTape" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="CivilianSedan_Black">
 		<attachments chance="1.00">
@@ -3664,8 +3684,7 @@
 		<attachments chance="1.00">
 			<item name="Pot" chance="1.00" />
 		</attachments>
-	
-	<attachments chance="1.00">
+		<attachments chance="1.00">
 			<item name="FishingRod" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
@@ -3673,6 +3692,18 @@
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Hook" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="VitaminBottle" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SewingKit" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LeatherSewingKit" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="DuctTape" chance="1.00" />
 		</attachments>
 	</type>
 	<!-- -->
@@ -3764,7 +3795,6 @@
 		<attachments chance="1.00">
 			<item name="Pot" chance="1.00" />
 		</attachments>
-		
 		<attachments chance="1.00">
 			<item name="Winchester70" chance="1.00" />
 		</attachments>
@@ -3774,7 +3804,18 @@
 		<attachments chance="1.00">
 			<item name="AmmoBox_308Win_20Rnd" chance="1.00" />
 		</attachments>
-		
+		<attachments chance="1.00">
+			<item name="VitaminBottle" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SewingKit" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LeatherSewingKit" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="DuctTape" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="Hatchback_02_Black">
 		<attachments chance="1.00">
@@ -3864,7 +3905,6 @@
 		<attachments chance="1.00">
 			<item name="Pot" chance="1.00" />
 		</attachments>
-		
 		<attachments chance="1.00">
 			<item name="Winchester70" chance="1.00" />
 		</attachments>
@@ -3874,7 +3914,18 @@
 		<attachments chance="1.00">
 			<item name="AmmoBox_308Win_20Rnd" chance="1.00" />
 		</attachments>
-		
+		<attachments chance="1.00">
+			<item name="VitaminBottle" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SewingKit" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LeatherSewingKit" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="DuctTape" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="Hatchback_02_Blue">
 		<attachments chance="1.00">
@@ -3964,7 +4015,6 @@
 		<attachments chance="1.00">
 			<item name="Pot" chance="1.00" />
 		</attachments>
-		
 		<attachments chance="1.00">
 			<item name="Winchester70" chance="1.00" />
 		</attachments>
@@ -3974,7 +4024,18 @@
 		<attachments chance="1.00">
 			<item name="AmmoBox_308Win_20Rnd" chance="1.00" />
 		</attachments>
-		
+		<attachments chance="1.00">
+			<item name="VitaminBottle" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SewingKit" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LeatherSewingKit" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="DuctTape" chance="1.00" />
+		</attachments>
 	</type>
 	<!-- -->
 	<type name="Sedan_02">
@@ -4065,7 +4126,6 @@
 		<attachments chance="1.00">
 			<item name="Pot" chance="1.00" />
 		</attachments>
-		
 		<attachments chance="1.00">
 			<item name="Shovel" chance="1.00" />
 		</attachments>
@@ -4084,7 +4144,18 @@
 		<attachments chance="1.00">
 			<item name="PepperSeedsPack" chance="1.00" />
 		</attachments>
-		
+		<attachments chance="1.00">
+			<item name="VitaminBottle" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SewingKit" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LeatherSewingKit" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="DuctTape" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="Sedan_02_Red">
 		<attachments chance="1.00">
@@ -4174,7 +4245,6 @@
 		<attachments chance="1.00">
 			<item name="Pot" chance="1.00" />
 		</attachments>
-		
 		<attachments chance="1.00">
 			<item name="Shovel" chance="1.00" />
 		</attachments>
@@ -4193,7 +4263,18 @@
 		<attachments chance="1.00">
 			<item name="PepperSeedsPack" chance="1.00" />
 		</attachments>
-		
+		<attachments chance="1.00">
+			<item name="VitaminBottle" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SewingKit" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LeatherSewingKit" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="DuctTape" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="Sedan_02_Grey">
 		<attachments chance="1.00">
@@ -4283,7 +4364,6 @@
 		<attachments chance="1.00">
 			<item name="Pot" chance="1.00" />
 		</attachments>
-		
 		<attachments chance="1.00">
 			<item name="Shovel" chance="1.00" />
 		</attachments>
@@ -4302,7 +4382,18 @@
 		<attachments chance="1.00">
 			<item name="PepperSeedsPack" chance="1.00" />
 		</attachments>
-		
+		<attachments chance="1.00">
+			<item name="VitaminBottle" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SewingKit" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LeatherSewingKit" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="DuctTape" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="Truck_01_Covered">
 		<attachments chance="1.00">
@@ -4347,8 +4438,6 @@
 		<attachments chance="1.00">
 			<item name="Truck_01_Door_2_1" chance="1.00" />
 		</attachments>
-		
-		
 			<attachments chance="1.00">
 			<item name="WoodenLog" chance="1.00" />
 		</attachments>
