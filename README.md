@@ -3,4 +3,6 @@ A stand-alone collection of XMLs for DAYZ modding that will add Trucks &amp; 4x4
 
 To install these xml mods, simply upload them over the top of your existing XMLS and restart your server. Changes will take effect over the following few days, as long as players are on the server.
 
+CHERNARUS ONLY.
+
 See change log for details.
